@@ -1,5 +1,5 @@
 # ONLINE GAME PROJECT
-##[] STEP 1: Select a Game
+## [] STEP 1: Select a Game
 - Game:
   - *game name here
 - # Players
